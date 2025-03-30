@@ -102,7 +102,7 @@ All vocabulary from each unit and lesson can be found here.
 | in*           | Latin                 | not, without              | include           |
 | ob*           | Latin                 | against, facing           | obtuse            |
 
-### Lesson 3
+<!-- ### Lesson 3
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -648,4 +648,4 @@ All vocabulary from each unit and lesson can be found here.
 | sulc          | Latin                 | furrow, groove            | sulcus            |
 | cer           | Latin                 | wax, waxy                 | triceratops       |
 | lat           | Latin                 | wide                      | latitude          |
-| later         | Latin                 | side, sideways            | lateral           |
+| later         | Latin                 | side, sideways            | lateral           | -->
