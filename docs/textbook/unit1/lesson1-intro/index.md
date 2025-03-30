@@ -4,6 +4,8 @@ nav_order: 1
 layout: default
 parent: Unit 1
 grandparent: Textbook
+nav_exclude: true
+search_exclude: true
 ---
 
 # Lesson 1: Introduction to Bioscientific Word-Building

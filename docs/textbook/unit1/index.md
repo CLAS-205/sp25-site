@@ -8,9 +8,9 @@ has_toc: false
 
 ## Unit 1
 
-In Unit 1, you'll enter the world of Latin and Greek roots and learn how to identify and classify living organisms. 
+In Unit 1, you'll enter the world of Latin and Greek roots and learn how to identify and classify living organisms.
 
-[Lesson 1: Introduction to Bioscientific Word-Building](./lesson1-intro/)
+<!-- [Lesson 1: Introduction to Bioscientific Word-Building](./lesson1-intro/)
 -
 
 - Defining prefixes, suffixes, bases
@@ -58,4 +58,4 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 [Project 1: Scientific Naming](./project1-naming/)
 -
 
-- Applying knowledge of Greek and Latin roots to interpreting scientific names
+- Applying knowledge of Greek and Latin roots to interpreting scientific names -->

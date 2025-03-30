@@ -4,7 +4,8 @@ nav_order: 6
 layout: default
 parent: Unit 2
 grandparent: Textbook
-# nav_exclude: true
+nav_exclude: true
+search_exclude: true
 ---
 
 # Project 2: Compounding Terms 🔬

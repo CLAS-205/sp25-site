@@ -4,7 +4,8 @@ nav_order: 1
 layout: default
 parent: Unit 3
 grandparent: Textbook
-# nav_exclude: true
+nav_exclude: true
+search_exclude: true
 ---
 
 # Lesson 11: Mathematics in Ancient Greece
