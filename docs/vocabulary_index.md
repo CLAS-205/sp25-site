@@ -7,7 +7,7 @@ nav_order: 2
 
 All vocabulary from each unit and lesson can be found here.
 
-Want an alphabetized version? Click [here!](../alphabetized_vocabulary.md)
+Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site/docs/alphabetized_vocabulary/)
 
 ## Unit 1
 

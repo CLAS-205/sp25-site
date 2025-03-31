@@ -11,6 +11,6 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
 
 ### Table of Contents
 
-- [Unit 1](../textbook/unit1/index.md)
-    - [Lesson 1](../textbook/unit1/lesson1-intro/index.md)
-    - [Lesson 2](../textbook/unit1/lesson2-languages/index.md)
+- [Unit 1](../textbook/unit1/index)
+    - [Lesson 1](../textbook/unit1/lesson1-intro/index)
+    - [Lesson 2](../textbook/unit1/lesson2-languages/index)
