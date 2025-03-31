@@ -7,7 +7,7 @@ nav_order: 2
 
 All vocabulary from each unit and lesson can be found here.
 
-Want an alphabetized version? Click [here!](../alphabetized_vocabulary.md)
+Want an alphabetized version? Click [here!](docs\alphabetized_vocabulary.md)
 
 ## Unit 1
 
