@@ -68,19 +68,19 @@ In later lessons, you will usually have a longer reading that goes into more det
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
-| bio           | Greek                 | life                      | biology           |
+| bi(o)         | Greek                 | life                      | biology           |
 | log(y)        | Greek                 | study of, reason, word    | logical           |
-| photo         | Greek                 | light                     | photograph        |
-| thermo        | Greek                 | heat                      | thermometer       |
+| phot(o)       | Greek                 | light                     | photograph        |
+| therm(o)      | Greek                 | heat                      | thermometer       |
 | gno           | Greek                 | to know                   | agnostic          |
 | (a)esth       | Greek                 | to feel, to perceive      | aesthetic         |
-| macro         | Greek                 | large                     | macroeconomics    |
-| micro         | Greek                 | small                     | microscope        |
+| macr(o)       | Greek                 | large                     | macroeconomics    |
+| micr(o)       | Greek                 | small                     | microscope        |
 | scop          | Greek                 | to see, to look at        | stethoscope       |
 | morph         | Greek                 | shape, form               | metamorphosis     |
 | poly          | Greek                 | many                      | polygraph         |
 | olig          | Greek                 | few                       | oligarchy         |
-| phobia        | Greek                 | fear, fear of             | hydrophobia       |
+| phob(ia)      | Greek                 | fear, fear of             | hydrophobia       |
 | graph         | Greek                 | to write                  | seismograph       |
 | op(s/t)       | Greek                 | to see, vision            | optical           |
 | hyper         | Greek                 | over, above, excessive    | hyperbole         |
@@ -88,7 +88,7 @@ In later lessons, you will usually have a longer reading that goes into more det
 | amphi         | Greek                 | both, double              | amphitheatre      |
 | vit(a)        | Latin                 | life                      | vitality          |
 | omni          | Latin                 | everything, all           | omniscient        |
-| aqua          | Latin                 | water                     | aquarium          |
+| aqu(a)        | Latin                 | water                     | aquarium          |
 | terra         | Latin                 | earth                     | terrarium         |
 | frug/fruct    | Latin                 | fruit                     | fructose          |
 | con(i)        | Latin                 | cone                      | conifer           |
@@ -97,7 +97,6 @@ In later lessons, you will usually have a longer reading that goes into more det
 | multi         | Latin                 | many                      | multipurpose      |
 | magn(i)       | Latin                 | large                     | magnitude         |
 | parv(o)       | Latin                 | small                     | parvovirus        |
-| alb(u)        | Latin                 | white                     | albino            |
 | vidi/visi     | Latin                 | to see                    | visible           |
 | port(o/a)     | Latin                 | to bring, to carry        | transport         |
 | able/ible     | Latin                 | able, capable             | ability           |
