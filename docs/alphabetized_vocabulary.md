@@ -1,5 +1,6 @@
 ---
 title: Vocabulary Index... but Alphabetized!
+nav_order: 6
 nav_exclude: true
 ---
 
