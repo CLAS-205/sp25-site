@@ -26,6 +26,8 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 > To clarify when only the textbook is necessary to solve a problem and when outside resources may be necessary, look for the following symbols:  
 > - 📚 for questions where only the textbook is needed  
 > - 🔎 for questions where you will need outside resources.  
+
+{: .note}
 > Some suggested resources for your use:
 > - Wikipedia
 > - Encyclopedia Britannica
