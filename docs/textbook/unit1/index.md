@@ -25,7 +25,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Spelling conventions
 - Contraction and assimilation
 
-<!-- [Lesson 3: Building Vocabulary](./lesson3-general-terms/)
+[Lesson 3: Building Vocabulary](./lesson3-general-terms/)
 -
 
 - Defining morphology
@@ -58,4 +58,4 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 [Project 1: Scientific Naming](./project1-naming/)
 -
 
-- Applying knowledge of Greek and Latin roots to interpreting scientific names -->
+- Applying knowledge of Greek and Latin roots to interpreting scientific names
