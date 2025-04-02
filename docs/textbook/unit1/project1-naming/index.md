@@ -4,8 +4,8 @@ nav_order: 6
 layout: default
 parent: Unit 1
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Project 1: Scientific Names 🐦
@@ -25,7 +25,13 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 {: .note}
 > To clarify when only the textbook is necessary to solve a problem and when outside resources may be necessary, look for the following symbols:  
 > - 📚 for questions where only the textbook is needed  
-> - 🔎 for questions where you will need outside resources.
+> - 🔎 for questions where you will need outside resources.  
+> Some suggested resources for your use:
+> - Wikipedia
+> - Encyclopedia Britannica
+> - ScienceDirect
+> - Animal Diversity Web
+> - Theoi Greek Mythology
 
 1. TOC
 {:toc}
@@ -39,21 +45,21 @@ Some organisms' species are derived from the places that they inhabit or were di
 3. Polytrichum ohioense
 4. Passer italiae
 5. Opuntia guatemalensis
-6. Anguilla australis
+6. Cephalothrix alaskaensis
 7. Chrysaora africana
 8. Rosa californica
 
 ## 🔎 Problem 2: Order in the Court
 
-Look up and provide the English name for each of the given orders. Give 1-2 examples of organisms in each order. Then, interpret the scientific names and explain why these make sense (or don't!) for the types of organisms they describe.
+Look up and provide the English name for each of the given orders. Give 1-2 examples of species that belong to each order. Then, interpret the scientific names of the orders and explain why these make sense (or don't!) for the types of organisms they describe.
 
 1. Lepidoptera
 2. Coleoptera
 3. Semaeostomae
 4. Equisetales
-5. Decapoda
+5. Hybodontiformes
 6. Squamata
-7. Carnivora
+7. Vitales
 8. Actiniaria
 
 ## 📚 Problem 3: Appointment at the Genus Bar
@@ -141,7 +147,7 @@ For each of the organisms and their scientific names, provide a breakdown of all
 3. Western honey bee (*apis mellifera*)
 4. Blacktip reef shark (*carcharhinus melanopterus*)
 5. Five-needle pine tree (*pinus parviflora*)
-6. Wood ear mushroom (*auricularia polytricha*)
+6. Common sundew (*drosera rotundifolia*)
 
 ## 🔎 Challenge Problem: Ethnic names
 
@@ -151,7 +157,7 @@ For each of the following names, provide its English counterpart (i.e., its non-
 
 1. Opuntia tehuacana
 2. Pouteria sapota
-3. Akodon toba
+3. Pelophylax chosenicus
 4. Esox masquinongy
 5. Sequoiadendron giganteum
 

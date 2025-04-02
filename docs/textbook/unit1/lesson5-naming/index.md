@@ -4,17 +4,17 @@ nav_order: 5
 layout: default
 parent: Unit 1
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
-## Lesson 5: Naming Conventions
+# Lesson 5: Naming Conventions
 {: .no_toc}
 
 1. TOC
 {:toc}
 
-### Objectives
+## Objectives
 
 1. Provide more context for how organisms are named
 2. Become familiar with common bases in naming
@@ -82,18 +82,22 @@ Some scientific names describe a particular feature of the organism using a fami
 
 | Root      | Language of origin        | Meaning           |
 | :---:     | :---:                     | :---              |
-| actin     | Greek                     | ray (like the sun)              |
+| actin     | Greek                     | ray (like the sun) |
 | onco      | Greek                     | mass, bulk        |
 | sem(a/o)  | Greek                     | flag, banner      |
 | lepid(o)  | Greek                     | scale (as of a fish) |
 | cole(o)   | Greek                     | sheath            |
 | theca     | Greek                     | case              |
+| hyb(o)    | Greek                     | hump              |
+| dros(o)   | Greek                     | dew, dewdrops     |
 | scut(a)   | Latin                     | shield            |
 | squam(a)  | Latin                     | scale (as of a fish) |
 | bulb      | Latin                     | onion, onion-like |
 | set(a)    | Latin                     | bristle           |
 | flor(a)   | Latin                     | flower            |
+| fol(li)   | Latin                     | leaf              |
 | stri(a)   | Latin                     | groove, stripe    |
+| rotund    | Latin                     | round             |
 
 ### Other Descriptors
 
@@ -128,6 +132,7 @@ Because Latin was so widely used in science at the time that taxonomies were bei
 | fox           | vulpes            |
 | bear          | ursus             |
 | lion          | leo               |
+| leopard       | pardus            |
 | snake         | serpens           |
 | eagle         | aquila            |
 | monkey, ape   | simia             |
@@ -168,6 +173,8 @@ Furthermore, engaging with this discourse might encourage a more holistic approa
 | lepid(o)  | Greek                     | scale (as of a fish) | leprosy    |
 | cole(o)   | Greek                     | sheath            | coleoptile    |
 | theca     | Greek                     | case              | apothecary    |
+| hyb(o)    | Greek                     | hump              | Hybodus       |
+| dros(o)   | Greek                     | dew, dewdrops     | drosometer    |
 | platy     | Greek                     | flat              | platypus      |
 | brachy    | Greek                     | short             | brachyodont   |
 | acr(o)    | Greek                     | high, tall        | acropolis     |
@@ -188,7 +195,9 @@ Furthermore, engaging with this discourse might encourage a more holistic approa
 | bulb      | Latin                     | onion, onion-like | bulbous       |
 | set(a)    | Latin                     | bristle           | setaceous     |
 | flor(a)   | Latin                     | flower            | floral        |
+| fol(li)   | Latin                     | leaf              | foliage       |
 | stri(a)   | Latin                     | groove, stripe    | striated      |
+| rotund    | Latin                     | round             | rotunda       |
 | long      | Latin                     | long              | elongate      |
 | brev(i)   | Latin                     | short             | brevity       |
 | parv(o)   | Latin                     | small             | parvovirus    |

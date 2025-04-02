@@ -104,7 +104,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | in*           | Latin                 | not, without              | include           |
 | ob*           | Latin                 | against, facing           | obtuse            |
 
-<!-- ### Lesson 3
+### Lesson 3
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -198,6 +198,8 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | lepid(o)      | Greek                 | scale (as of a fish)      | leprosy           |
 | cole(o)       | Greek                 | sheath                    | coleoptile        |
 | theca         | Greek                 | case                      | apothecary        |
+| hyb(o)        | Greek                 | hump                      | Hybodus           |
+| dros(o)       | Greek                 | dew, dewdrops             | drosometer        |
 | platy         | Greek                 | flat                      | platypus          |
 | brachy        | Greek                 | short                     | brachyodont       |
 | acr(o)        | Greek                 | high, tall                | acropolis         |
@@ -218,14 +220,16 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | bulb          | Latin                 | onion, onion-like         | bulbous           |
 | set(a)        | Latin                 | bristle                   | setaceous         |
 | flor(a)       | Latin                 | flower                    | floral            |
+| fol(li)       | Latin                 | leaf                      | foliage           |
 | stri(a)       | Latin                 | groove, stripe            | striated          |
+| rotund        | Latin                 | round                     | rotunda           |
 | long          | Latin                 | long                      | elongate          |
 | brev(i)       | Latin                 | short                     | brevity           |
 | parv(o)       | Latin                 | small                     | parvovirus        |
 | magn(i/o)     | Latin                 | large                     | magnitude         |
 | alt(o)        | Latin                 | tall, deep                | altitude          |
 
-## Unit 2
+<!-- ## Unit 2
 
 ### Lesson 6
 
