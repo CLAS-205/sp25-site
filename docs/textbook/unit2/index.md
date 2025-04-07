@@ -4,8 +4,8 @@ nav_order: 2
 layout: default
 parent: Textbook
 has_toc: false
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 ## Unit 2
@@ -25,7 +25,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - Number bases in Latin and Greek
 - Roman numerals
 
-[Lesson 8: Names in Chemistry](./lesson8-chem-names/)
+<!-- [Lesson 8: Names in Chemistry](./lesson8-chem-names/)
 -
 
 - Diminutive endings
@@ -56,4 +56,4 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 [Project 2: Compounding Terms](./project2-compounds/)
 -
 
-- Applying knowledge of endings and more Greek and Latin roots to analyze chemical names.
+- Applying knowledge of endings and more Greek and Latin roots to analyze chemical names. -->

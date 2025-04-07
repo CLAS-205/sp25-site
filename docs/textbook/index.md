@@ -18,3 +18,7 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
     - [Lesson 4](../textbook/unit1/lesson4-taxonomy/)
     - [Lesson 5](../textbook/unit1/lesson5-naming)
     - [Project 1](../textbook/unit1/project1-naming/)
+
+- [Unit 2](../textbook/unit2/)
+    - [Lesson 6](../textbook/unit2/lesson6-suffixes/)
+    - [Lesson 7](../textbook/unit2/lesson7-numbers/)
