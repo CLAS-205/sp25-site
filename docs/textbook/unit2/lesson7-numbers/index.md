@@ -4,8 +4,8 @@ nav_order: 2
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 7: Numbers
