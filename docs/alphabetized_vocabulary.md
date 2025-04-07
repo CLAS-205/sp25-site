@@ -6,6 +6,8 @@ nav_exclude: true
 
 All vocabulary from each lesson can be found here, in alphabetical order by their root. This page will be updated throughout the quarter.
 
+Want to head back to the lesson-by-lesson vocab? Click [here!](https://clas-205.github.io/sp25-site/docs/vocabulary_index/)
+
 | Root          | Language of origin    | Meaning                   | Example           | Lesson        |
 | :---:         | :---:                 | :---                      | :---              | :---          |
 | a/ab          | Latin                 | down from, away from      | abduct            | 2             |

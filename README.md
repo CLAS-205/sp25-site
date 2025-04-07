@@ -1,7 +1,7 @@
-# CLAS 205 Winter 2025
+# CLAS 205 Spring 2025
 
-This branch contains the source code for the course website for Autumn 2024.
-Site link: [https://clas-205.github.io/wi25-site/](https://clas-205.github.io/wi25-site/)
+This branch contains the source code for the course website for Spring 2025.
+Site link: [https://clas-205.github.io/wi25-site/](https://clas-205.github.io/sp25-site/)
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];

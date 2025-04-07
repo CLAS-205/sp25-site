@@ -23,6 +23,12 @@ A list of additional resources for the class can be found here, organized by top
 - *Scientifica Historica: How the World's Great Science Books Chart the History of Knowledge*. Brian Clegg, Ivy Press, 2019.
 - *The Swerve: How the World Became Modern*. Stephen Greenblatt, W. W. Norton & Company, 2012.
 
+## Ethnosciences and Indigenous Knowledge
+
+- *Braiding Sweetgrass*.  Robin Wall Kimmerer, Milkweed Editions, 2013.
+- *Research is Ceremony: Indigenous Research Methodologies*. Shawn Wilson, Fernwood Publishing, 2008.
+- *Decolonizing Methodologies*. Linda Tuhiwai Smith, Bloomsbury Publishing, 1999.
+
 ## Taxonomy and Classification
 
 - *What Linnaeus Saw: A Scientist's Quest to Name Every Living Thing*. Karen Magnuson Beil, W. W. Norton & Company, 2019.
