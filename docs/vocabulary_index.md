@@ -229,7 +229,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | magn(i/o)     | Latin                 | large                     | magnitude         |
 | alt(o)        | Latin                 | tall, deep                | altitude          |
 
-<!-- ## Unit 2
+## Unit 2
 
 ### Lesson 6
 
@@ -304,7 +304,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | non           | Latin                 | ninth                     | nonagenarian      |
 | decim         | Latin                 | tenth                     | decimal           |
 
-### Lesson 8
+<!-- ### Lesson 8
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
