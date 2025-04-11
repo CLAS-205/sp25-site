@@ -4,8 +4,8 @@ nav_order: 6
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Project 2: Compounding Terms 🔬
@@ -32,6 +32,16 @@ A copy of the periodic table is provided here, for your reference.
 > - 📚 for questions where only the textbook is needed  
 > - 🔎 for questions where you will need outside resources.
 
+{: .note}
+> Some suggested resources for your use:
+> - Wikipedia
+> - Encyclopedia Britannica
+> - Theoi Greek Mythology
+> - The Royal Society of Chemistry
+> - Live Science
+> - [PubChem's Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)
+> - [webelements.com](https://webelements.com/)
+
 1. TOC
 {:toc}
 
@@ -42,20 +52,20 @@ The following elements from the periodic table use Latin- or Greek-based names w
 1. Helium
 2. Lithium
 3. Chromium
-4. Tellurium
-5. Radium
+4. Protactinium
+5. Calcium
 
 ## 🔎 Problem 2: Gods Against Humanity
 
 These elements all include references to Greek and Roman mythological figures in their names. Look up and provide the name of the figure, what the figure represents in mythology, and why the element was named after that figure. Then, tell whether you think this name is appropriate.
 
-(Hint: You may find it helpful to look into the history of how each element was discovered, to determine why each was named after the mythological figure associated with it.)
+(Hint: Look into the history of how each element was discovered to determine why each was named after the mythological figure associated with it.)
 
 1. Titanium
 2. Promethium
-3. Plutonium
+3. Uranium
 4. Tantalum
-5. Selenium
+5. Niobium
 
 ## 📚 Problem 3: It's a Numbers Game
 
@@ -74,12 +84,11 @@ Use number prefixes to match chemical names to their formulae. (When there's no 
 
 Using context clues to figure out the patterns in each of the following groups of chemical compounds with the same ending. In other words, what do each of these compounds have in common?
 
-(Hint: Look for elements or numbers in common! Be sure to explain the commonality so that a general audience can understand.)
+(Hint: Look for elements or numbers in common! Be sure to explain the commonality so that a general audience can understand, and avoid using terminology that we haven't discussed in this class.)
 
 #### -ate
 
 - Calcium carbonate (CaCO<sub>3</sub>)
-- Sodium bicarbonate (NaHCO<sub>3</sub>)
 - Potassium nitrate (KNO<sub>3</sub>)
 - Iron phosphate (FePO<sub>4</sub>)
 - Calcum sulfate (CaSO<sub>4</sub>)
@@ -89,7 +98,6 @@ Using context clues to figure out the patterns in each of the following groups o
 - Sodium chloride (NaCl)
 - Iron sulfide (FeS)
 - Potassium bromide (KBr)
-- Titanium aluminide (TiAl)
 - Magnesium oxide (MgO)
 
 ### -ane
@@ -97,7 +105,6 @@ Using context clues to figure out the patterns in each of the following groups o
 - Methane (CH<sub>4</sub>)
 - Ethane (C<sub>2</sub>H<sub>6</sub>)
 - Propane (C<sub>3</sub>H<sub>8</sub>)
-- Butane (C<sub>4</sub>H<sub>10</sub>)
 - Octane (C<sub>8</sub>H<sub>18</sub>)
 
 ## 📚 Problem 5: A Test of Metal

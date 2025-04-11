@@ -51,9 +51,9 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - History of periodic table(s)
 - Tables by Dalton, Berzelius, and Mendeleev
 - Discovery of new elements
-- Synthetic and radioactive elements 
+- Synthetic and radioactive elements  -->
 
 [Project 2: Compounding Terms](./project2-compounds/)
 -
 
-- Applying knowledge of endings and more Greek and Latin roots to analyze chemical names. -->
+- Applying knowledge of endings and more Greek and Latin roots to analyze chemical names.
