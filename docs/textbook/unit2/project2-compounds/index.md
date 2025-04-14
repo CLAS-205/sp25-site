@@ -100,7 +100,7 @@ Using context clues to figure out the patterns in each of the following groups o
 - Potassium bromide (KBr)
 - Magnesium oxide (MgO)
 
-### -ane
+#### -ane
 
 - Methane (CH<sub>4</sub>)
 - Ethane (C<sub>2</sub>H<sub>6</sub>)

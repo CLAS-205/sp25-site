@@ -304,7 +304,10 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | non           | Latin                 | ninth                     | nonagenarian      |
 | decim         | Latin                 | tenth                     | decimal           |
 
-<!-- ### Lesson 8
+### Lesson 8
+
+{: .important}
+> This lesson also contains a table of diminutives, which are best referenced on the individual lesson page.
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -384,7 +387,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | pet(it)       | Latin                 | to seek, to go towards    | petition          |
 | gress/grade   | Latin                 | to go, to advance         | progress          |
 
-## Unit 3
+<!-- ## Unit 3
 
 ### Lesson 11
 

@@ -22,4 +22,7 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
 - [Unit 2](../textbook/unit2/)
     - [Lesson 6](../textbook/unit2/lesson6-suffixes/)
     - [Lesson 7](../textbook/unit2/lesson7-numbers/)
+    - [Lesson 8](../textbook/unit2/lesson8-chem-names/)
+    - [Lesson 9](../textbook/unit2/lesson9-ancient-chemistry/)
+    - [Lesson 10](../textbook/unit2/lesson10-periodic-table/)
     - [Project 2](../textbook/unit2/project2-compounds/)

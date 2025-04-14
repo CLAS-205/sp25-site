@@ -25,7 +25,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - Number bases in Latin and Greek
 - Roman numerals
 
-<!-- [Lesson 8: Names in Chemistry](./lesson8-chem-names/)
+[Lesson 8: Names in Chemistry](./lesson8-chem-names/)
 -
 
 - Diminutive endings
@@ -51,7 +51,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - History of periodic table(s)
 - Tables by Dalton, Berzelius, and Mendeleev
 - Discovery of new elements
-- Synthetic and radioactive elements  -->
+- Synthetic and radioactive elements
 
 [Project 2: Compounding Terms](./project2-compounds/)
 -
