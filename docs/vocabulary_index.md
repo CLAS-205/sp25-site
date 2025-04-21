@@ -387,7 +387,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | pet(it)       | Latin                 | to seek, to go towards    | petition          |
 | gress/grade   | Latin                 | to go, to advance         | progress          |
 
-<!-- ## Unit 3
+## Unit 3
 
 ### Lesson 11
 
@@ -400,6 +400,8 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | stoich(io)    | Greek                 | element, part             | stoichiometry     |
 | iso           | Greek                 | equal                     | isometric         |
 | gram          | Greek                 | written                   | telegram          |
+| hist(o)       | Greek                 | standing, to stand        | histogram         |
+| schem(a)      | Greek                 | shape                     | schematics        |
 | hedron        | Greek                 | geometric solid with X faces | hexahedron     |
 | orth(o)       | Greek                 | straight, regular         | orthodontics      |
 | ster(eo)      | Greek                 | solid, stiff              | stereotype        |
@@ -410,7 +412,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | lips(e)/laps(e) | Greek               | to fall                   | relapse           |
 | (h)eur(o)     | Greek                 | to find, to discover      | eureka            |
 
-### Lesson 12
+<!-- ### Lesson 12
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |

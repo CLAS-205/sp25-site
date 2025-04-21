@@ -26,3 +26,6 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
     - [Lesson 9](../textbook/unit2/lesson9-ancient-chemistry/)
     - [Lesson 10](../textbook/unit2/lesson10-periodic-table/)
     - [Project 2](../textbook/unit2/project2-compounds/)
+
+- [Unit 3](../textbook/unit3/)
+    - [Lesson 11](../textbook/unit3/lesson11-greek-math/)
