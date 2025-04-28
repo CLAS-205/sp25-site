@@ -4,8 +4,8 @@ nav_order: 2
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 12: Mathematics in Ancient Rome
@@ -237,6 +237,7 @@ When they were not actively at war, the Roman army was essentially a battalion o
 | rect/reg      | Latin                 | straight, regular         | rectangle         |
 | plan          | Latin                 | flat                      | plane             |
 | integ(e)r     | Latin                 | whole                     | integer           |
+| ple(x)/plic   | Latin                 | fold, to fold             | duplicate         |
 | put(e)        | Latin                 | to think                  | compute           |
 | sec(t)        | Latin                 | to cut                    | section           |
 | fabr(i)       | Latin                 | to craft                  | fabric            |

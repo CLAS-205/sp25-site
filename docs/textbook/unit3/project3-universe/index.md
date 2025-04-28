@@ -4,8 +4,8 @@ nav_order: 6
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Project 3: Exploring the Universe 🚀
@@ -33,7 +33,7 @@ In this project, you will explore the names of astronomical objects such as moon
 
 ## 📚 Problem 1: Down by the Bayer
 
-For each of the following groups of stars, use their Bayer designations (i.e., their Greek letters) to order the stars from brightest to dimmest. (Note: Bayer's observations were calculated solely on observations with the naked eye and may not necessarily reflect the true luminosities of the stars when calculated through modern methods.)
+For each of the following groups of stars, use their Bayer designations (i.e., their Greek letters) to order the stars from brightest to dimmest. Recall how Greek letters were used to denote the observed relative brightnesses of the stars! (Note: Bayer's observations were calculated solely on observations with the naked eye and may not necessarily reflect the true luminosities of the stars when calculated through modern methods.)
 
 1. δ Orionis, β Orionis, α Orionis, ε Orionis
 2. ε Canis Majoris, ο Canis Majoris, δ Canis Majoris, η Canis Majoris
@@ -73,15 +73,31 @@ For each of the following constellations, give the proper name of the constellat
 7. Aquila
 8. Eridanus
 
-## 🔎 Problem 5: Astrologic
+## 📚 Problem 5: Star-Crossed
 
-In an essay of about 200-300 words, compare and contrast the Babylonian, Chinese, Hindu, and Hellenistic zodiacs. Include the following in your essay.
+Fill out the crossword using the hints below. All answers can be found in the readings and vocabulary for Unit 3!
 
-- What are the key similarities and differences between these systems in terms of their structure or symbolic meanings?
-- How does each system interpret the significance of planets and/or constellations?
-- The word *zodiac* comes from the Greek root *zo* meaning "animal". Do you find the term "zodiac" appropriate for each system?
+![crossword puzzle for Problem 5](../../../../assets/images/crossword.png)
 
-## Problem 6: Lost in the Cosmos
+1. "That which grows"; a recognizable moon shape
+2. ____centrism, the belief that the Earth revolves around the sun
+3. The Danish word for "star" that gave its name to one of Tycho Brahe's observatories
+4. Annie Jump _____, the census taker of the sky
+5. Relating to the stars (Greek)
+6. Relating to the stars (Latin)
+7. The common name of Beta Orionis
+8. A constellation with a famous belt
+9. "That which wanders"
+10. The teacher of Anaximander
+11. The largest object in the asteroid belt, named after the Roman goddess of agriculture
+12. Big ____, an asterism of Ursa Major
+13. ____sceles; a triangle with two equal sides
+14. The Milky Way, or as the Greeks called it, "milky"
+15. Copernicus's work "On the Revolutions of the Heavenly ____"
+
+A copy of the crossword can be found in [this Google document](https://docs.google.com/document/d/1zwGDYwDPE4-p_XNYrifOBeo-TTvYb8wtr9pIJ9bBklQ/edit?usp=sharing) for ease of filling it out.
+
+## 📚 Problem 6: Lost in the Cosmos
 
 Read the following excerpts (in English!) from ancient literature describing the nature of astronomy and the universe:
 

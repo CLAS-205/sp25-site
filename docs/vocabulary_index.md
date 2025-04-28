@@ -412,7 +412,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | lips(e)/laps(e) | Greek               | to fall                   | relapse           |
 | (h)eur(o)     | Greek                 | to find, to discover      | eureka            |
 
-<!-- ### Lesson 12
+### Lesson 12
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -429,6 +429,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | rect/reg      | Latin                 | straight, regular         | rectangle         |
 | plan          | Latin                 | flat                      | plane             |
 | integ(e)r     | Latin                 | whole                     | integer           |
+| ple(x)/plic   | Latin                 | fold, to fold             | duplicate         |
 | put(e)        | Latin                 | to think                  | compute           |
 | sec(t)        | Latin                 | to cut                    | section           |
 | fabr(i)       | Latin                 | to craft                  | fabric            |
@@ -465,7 +466,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | grav(i)       | Latin                 | heavy                     | gravitas          |
 | cresc(e)      | Latin                 | to grow                   | crescendo         |
 
-### Lesson 14
+<!-- ### Lesson 14
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
