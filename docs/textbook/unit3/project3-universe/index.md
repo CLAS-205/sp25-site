@@ -39,7 +39,6 @@ For each of the following groups of stars, use their Bayer designations (i.e., t
 2. ε Canis Majoris, ο Canis Majoris, δ Canis Majoris, η Canis Majoris
 3. π Pegasi, φ Pegasi, ξ Pegasi, γ Pegasi
 4. ψ Draconis, δ Draconis, ζ Draconis, η Draconis
-5. κ Ophiuchi, θ Ophiuchi, ν Ophiuchi, χ Ophiuchi
 
 ## 🔎 Problem 2: Moonwalking
 
@@ -52,13 +51,12 @@ For each of the following planets, look up and provide the names of at least fou
 
 ## 🔎 Problem 3: Probing for Answers
 
-Look up and give the destination for each solar system probe series. Then tell how its name is related to its destination.
+Look up and give the destination or mission for each solar system probe series. Then tell how its name is related to its destination or mission.
 
 1. Venera
 2. Juno
-3. Helios
-4. Phobos
-5. Luna
+3. Ulysses
+4. Luna
 
 ## 🔎 Problem 4: The Best and Brightest
 
@@ -87,7 +85,7 @@ Fill out the crossword using the hints below. All answers can be found in the re
 6. Relating to the stars (Latin)
 7. The common name of Beta Orionis
 8. A constellation with a famous belt
-9. "That which wanders"
+9. "That which wanders"; our solar system neighbors
 10. The teacher of Anaximander
 11. The largest object in the asteroid belt, named after the Roman goddess of agriculture
 12. Big ____, an asterism of Ursa Major
@@ -110,7 +108,7 @@ In an essay of about 300-400 words, compare and contrast the way these writers d
 {: .note}
 > If you are having trouble accessing the readings, you should either A) confirm that you are logged in with your UW credentials; or B) navigate to the UW Libraries page for the [Loeb Classical Library](https://guides.lib.uw.edu/az.php?a=l) (you may need to scroll a bit to find it) and access the readings through there.
 
-## Challenge Problem: The Root of the Issue
+## 📚 Challenge Problem: The Root of the Issue
 
 For any of the texts in Problem 6, read either the Latin or the Greek and identify 5 words that contain roots that you've learned so far. Give the word, the root, and the context (i.e., the sentence or the line you found the word in). What do you think each word means?
 
