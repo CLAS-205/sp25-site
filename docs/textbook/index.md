@@ -31,4 +31,6 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
     - [Lesson 11](../textbook/unit3/lesson11-greek-math/)
     - [Lesson 12](../textbook/unit3/lesson12-roman-math/)
     - [Lesson 13](../textbook/unit3/lesson13-astronomy/)
+    - [Lesson 14](../textbook/unit3/lesson14-modern-astronomy/)
+    - [Lesson 15](../textbook/unit3/lesson15-classical-tradition/)
     - [Project 3](../textbook/unit3/project3-universe/)

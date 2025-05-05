@@ -466,7 +466,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | grav(i)       | Latin                 | heavy                     | gravitas          |
 | cresc(e)      | Latin                 | to grow                   | crescendo         |
 
-<!-- ### Lesson 14
+### Lesson 14
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -515,7 +515,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | clud/s(e)     | Latin                 | to close, to shut         | exclude           |
 | vern(a)       | Latin                 | domestic, native          | vernacular        |
 
-## Unit 4
+<!-- ## Unit 4
 
 ### Lesson 16
 
