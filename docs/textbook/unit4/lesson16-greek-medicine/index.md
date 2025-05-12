@@ -4,8 +4,8 @@ nav_order: 1
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 16: Ancient Greek Health and Medicine
@@ -164,6 +164,7 @@ Besides temple treatments, which could be costly, there were a variety of magica
 | carcin        | Greek                 | cancer                    | carcinoma         |
 | hyster        | Greek                 | womb, uterus              | hysteria          |
 | metr          | Greek                 | uterus                    | endometriosis     |
+| orchi(s/d)    | Greek                 | testicle                  | orchiectomy       |
 | cephal(o)     | Greek                 | head                      | cephalopod        |
 | neur          | Greek                 | nerve                     | neuron            |
 | pneumon       | Greek                 | lungs                     | pneumonia         |
@@ -177,9 +178,11 @@ Besides temple treatments, which could be costly, there were a variety of magica
 | ophthalm      | Greek                 | eyes                      | ophthalmologist   |
 | ch(e)ir(o)    | Greek                 | hand, wrist               | chiropractor      |
 | tars          | Greek                 | ankle, sole of foot       | tarsal            |
+| no(s/i)       | Greek                 | mind                      | paranoia          |
+| phren         | Greek                 | diaphragm, mind           | phrenic           |
 | gyn(ec)       | Greek                 | female, feminine          | gynecology        |
 | andr(o)       | Greek                 | male, masculine           | androgyny         |
-| dors          | Latin                 | back (body part)          | dorsal            |
+| schiz/schis(t) | Greek                | to split                  | schism            |
 
 ## Vocabulary Practice
 

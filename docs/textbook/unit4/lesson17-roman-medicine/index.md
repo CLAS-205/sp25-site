@@ -4,8 +4,8 @@ nav_order: 2
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 17: Ancient Roman Health and Medicine
@@ -194,13 +194,15 @@ Galen wrote extensively on anatomy. He had a lot of different works that survive
 | capit/cipit   | Latin                 | head                      | capital           |
 | nerv          | Latin                 | nerve                     | nervous           |
 | pulmon        | Latin                 | lungs                     | pulmonary         |
+| dors          | Latin                 | back (body part)          | dorsal            |
 | dol(or)       | Latin                 | pain                      | dolorous          |
 | cal(or)       | Latin                 | heat                      | calorie           |
 | rub(or)       | Latin                 | red, redness              | rubella           |
 | tum(or)       | Latin                 | swelling, swollen         | tumor             |
 | cut           | Latin                 | skin                      | cuticle           |
 | ren           | Latin                 | kidney                    | adrenaline        |
-| oss           | Latin                 | bone                      | ossuary           |
+| os(s)         | Latin                 | bone                      | ossuary           |
+| muscul(us)    | Latin                 | muscle                    | muscular          |
 | ocul          | Latin                 | eyes                      | oculus            |
 | manu          | Latin                 | hand                      | manual            |
 | vulner(a)     | Latin                 | wound                     | vulnerable        |

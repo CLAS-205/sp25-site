@@ -34,3 +34,7 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
     - [Lesson 14](../textbook/unit3/lesson14-modern-astronomy/)
     - [Lesson 15](../textbook/unit3/lesson15-classical-tradition/)
     - [Project 3](../textbook/unit3/project3-universe/)
+
+- [Unit 4](../textbook/unit4/)
+    - [Lesson 16](../textbook/unit4/lesson16-greek-medicine/)
+    - [Lesson 17](../textbook/unit4/lesson17-roman-medicine/)

@@ -515,7 +515,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | clud/s(e)     | Latin                 | to close, to shut         | exclude           |
 | vern(a)       | Latin                 | domestic, native          | vernacular        |
 
-<!-- ## Unit 4
+## Unit 4
 
 ### Lesson 16
 
@@ -528,6 +528,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | carcin        | Greek                 | cancer                    | carcinoma         |
 | hyster        | Greek                 | womb, uterus              | hysteria          |
 | metr          | Greek                 | uterus                    | endometriosis     |
+| orchi(s/d)    | Greek                 | testicle                  | orchiectomy       |
 | cephal(o)     | Greek                 | head                      | cephalopod        |
 | neur          | Greek                 | nerve                     | neuron            |
 | pneumon       | Greek                 | lungs                     | pneumonia         |
@@ -541,8 +542,11 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | ophthalm      | Greek                 | eyes                      | ophthalmologist   |
 | ch(e)ir(o)    | Greek                 | hand, wrist               | chiropractor      |
 | tars          | Greek                 | ankle, sole of foot       | tarsal            |
+| no(s/i)       | Greek                 | mind                      | paranoia          |
+| phren         | Greek                 | diaphragm, mind           | phrenic           |
 | gyn(ec)       | Greek                 | female, feminine          | gynecology        |
 | andr(o)       | Greek                 | male, masculine           | androgyny         |
+| schiz/schis(t) | Greek                | to split                  | schism            |
 | dors          | Latin                 | back (body part)          | dorsal            |
 
 ### Lesson 17
@@ -555,13 +559,15 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | capit/cipit   | Latin                 | head                      | capital           |
 | nerv          | Latin                 | nerve                     | nervous           |
 | pulmon        | Latin                 | lungs                     | pulmonary         |
+| dors          | Latin                 | back (body part)          | dorsal            |
 | dol(or)       | Latin                 | pain                      | dolorous          |
 | cal(or)       | Latin                 | heat                      | calorie           |
 | rub(or)       | Latin                 | red, redness              | rubella           |
 | tum(or)       | Latin                 | swelling, swollen         | tumor             |
 | cut           | Latin                 | skin                      | cuticle           |
 | ren           | Latin                 | kidney                    | adrenaline        |
-| oss           | Latin                 | bone                      | ossuary           |
+| os(s)         | Latin                 | bone                      | ossuary           |
+| muscul(us)    | Latin                 | muscle                    | muscular          |
 | ocul          | Latin                 | eyes                      | oculus            |
 | manu          | Latin                 | hand                      | manual            |
 | vulner(a)     | Latin                 | wound                     | vulnerable        |
@@ -570,7 +576,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | dexter/dextr  | Latin                 | right (as in direction)   | dextrous          |
 | sinister/sinistr | Latin              | left (as in direction)    | sinister          |
 
-### Lesson 18
+<!-- ### Lesson 18
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
