@@ -38,3 +38,5 @@ The readings for CLAS 205 can all be found here. The textbook will be updated th
 - [Unit 4](../textbook/unit4/)
     - [Lesson 16](../textbook/unit4/lesson16-greek-medicine/)
     - [Lesson 17](../textbook/unit4/lesson17-roman-medicine/)
+    - [Lesson 18](../textbook/unit4/lesson18-latin/)
+    - [Project 4](../textbook/unit4/project4-medschool/)

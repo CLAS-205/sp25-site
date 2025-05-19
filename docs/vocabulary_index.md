@@ -576,7 +576,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | dexter/dextr  | Latin                 | right (as in direction)   | dextrous          |
 | sinister/sinistr | Latin              | left (as in direction)    | sinister          |
 
-<!-- ### Lesson 18
+### Lesson 18
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -602,7 +602,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | mors/mort     | Latin                 | to die, death             | mortal            |
 | viv(a/o)      | Latin                 | to live, living           | vivacious         |
 
-### Lesson 19
+<!-- ### Lesson 19
 
 | Root              | Language of origin    | Meaning                   | Example           |
 | :---:             | :---:                 | :---                      | :---              |

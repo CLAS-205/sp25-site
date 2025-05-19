@@ -4,8 +4,8 @@ nav_order: 7
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Project 4: Medical School 🩺
@@ -48,7 +48,7 @@ Give the meanings of each of the roots (including endings) in the following dise
 2. tuberculosis
 3. hemorrhoids
 4. xerosis
-5. gonycampsis
+5. rachiocampsis
 
 ## 🔎 Problem 3: It's Just Hormones
 
@@ -66,9 +66,8 @@ Give the meanings of each of the roots in the following drug classes. Look up an
 
 1. antineoplastics
 2. corticosteroids
-3. topical antiseptics
-4. sympathomimetics
-5. analgesics
+3. sympathomimetics
+4. analgesics
 
 ## 📚 Problem 5: What's Up, Doc?
 
