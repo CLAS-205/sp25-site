@@ -30,7 +30,7 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
     - Dioscorides
     - Galen
 
-<!-- [Lesson 18: The Latin Language](./lesson18-latin/)
+[Lesson 18: The Latin Language](./lesson18-latin/)
 -
 
 - Nouns and adjectives in Latin
@@ -50,7 +50,8 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
 - Endings for disease names
 - Etiologies for diseases
 - Naming of drugs
+- Some developments towards modern medicine
 
 [Project 4: Medical School](./project4-medschool/)
 
-- Applying knowledge of Latin and Greek roots to medical terminology. -->
+- Applying knowledge of Latin and Greek roots to medical terminology.
