@@ -602,7 +602,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | mors/mort     | Latin                 | to die, death             | mortal            |
 | viv(a/o)      | Latin                 | to live, living           | vivacious         |
 
-<!-- ### Lesson 19
+### Lesson 19
 
 | Root              | Language of origin    | Meaning                   | Example           |
 | :---:             | :---:                 | :---                      | :---              |
@@ -650,7 +650,7 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | cirrh         | Greek                 | tawny                     | cirrhosis         |
 | rrho/rrhea    | Greek                 | flow, discharge, current  | diarrhea          |
 | scoli(o)      | Greek                 | twisted                   | scoliosis         |
-| sept(i)       | Greek                 | putrid                    | septic            |
+| sept/seps(i)  | Greek                 | putrid                    | septic            |
 | sapr(o)       | Greek                 | putrid, rotting           | saprogenic        |
 | mim(e)        | Greek                 | to copy, to imitate       | mimic             |
 | necr(o)       | Greek                 | death, dying              | necromancy        |
@@ -666,4 +666,4 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 | sulc          | Latin                 | furrow, groove            | sulcus            |
 | cer           | Latin                 | wax, waxy                 | triceratops       |
 | lat           | Latin                 | wide                      | latitude          |
-| later         | Latin                 | side, sideways            | lateral           | -->
+| later         | Latin                 | side, sideways            | lateral           |
