@@ -102,15 +102,15 @@ Although outdated by modern standards, the **miasma theory** became a popular ex
 
 Surgery also began to evolve during this era, with increased emphasis on anatomical study and technique. Surgeons like **John Hunter** in Britain advanced the field through dissection and experimentation, helping distinguish surgery as a scientific discipline rather than a trade.
 
-{:note}
+{: .note}
 > Prior to the development of surgery as a profession, it was more of a service that could be done by other trade workers, particularly barbers. If you've ever seen a barber's pole, the red and white stripes symbolized blood and bandages, indicating that barbers would also provide surgical services!
 
 Widespread warfare in Europe throughout the later half of the 18th century, particularly during the Napoleonic Wars, also forced the armies of many nations (particularly France) to make major developments in trauma surgery and mobile medical care to keep up with the sheer scale of combat injuries. Similar to how medicine in Rome developed as a result of military practices, many European nations saw medical advancements as a result of battlefield medicine.
 
 <div style="display: block; text-align: left;">
     <div style="margin-bottom: 20px;">
-        <img src="../../../../assets/images/larrey.jpg" alt="French physician and surgeon Dominic Jean Larrey" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
-        <figcaption style="text-align: left; margin-top: 5px;"><i>French physician and surgeon Dominic Jean Larrey, Image credit: Wikipedia</i></figcaption>
+        <img src="../../../../assets/images/larrey.jpg" alt="French physician and surgeon Dominic Jean Larrey" style="max-width: 40%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>French physician and surgeon Dominique Jean Larrey, Image credit: Wikipedia</i></figcaption>
     </div>
     <p><b>Dominique Jean Larrey</b> was the chief surgeon in Napoleon's army who is credited with a slew of advancements in emergency and trauma medicine, including the invention of the <i>ambulance volante</i> (flying ambulance) to more effectively transport wounded soldiers from the battlefield and the development of a <i>triage system</i> where patients were treated on the basis of the severity of their wounds rather than by their rank or title in the army. Larrey's triage system was foundational to the principles of disaster and emergency care today, too.</p>
     <p> </p>
@@ -121,7 +121,7 @@ Widespread warfare in Europe throughout the later half of the 18th century, part
 By the 19th century, **hospitals** in Europe had transformed from religious charitable institutions into secular centers for medical treatment, research, and education. The recognition of the **germ theory of disease**, primarily through the work of **Louis Pasteur** and **Robert Koch**, revolutionized medicine by identifying microorganisms as the cause of many diseases. This paradigm shift led to major advances in **sanitation practices**, such as handwashing, sterilization, and waste management, drastically reducing infection rates.
 
 <div style="margin-bottom: 20px;">
-        <img src="../../../../assets/images/nightingale.jpg" alt="English nurse and statistician Florence Nightingale" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <img src="../../../../assets/images/nightingale.jpg" alt="English nurse and statistician Florence Nightingale" style="max-width: 40%; height: auto; float: left; margin-right: 20px;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>English nurse and statistician Florence Nightingale, Image credit: Wikipedia</i></figcaption>
     </div>
     <p>One of the most influential figures in nursing and hospital reform was <b>Florence Nightingale</b>, an English nurse who revolutionized the way that nursing was organized and perceived. During the Crimean War, she introduced hygiene protocols and collected data to advocate for better hospital conditions. Her efforts helped establish nursing as a respected profession grounded in scientific principles. Further, Nightingale is credited with developing early forms of data visualization in order to more effectively communicate statistics about her patients.</p>
