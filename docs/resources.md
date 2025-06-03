@@ -28,6 +28,11 @@ A list of additional resources for the class can be found here, organized by top
 - *Braiding Sweetgrass*.  Robin Wall Kimmerer, Milkweed Editions, 2013.
 - *Research is Ceremony: Indigenous Research Methodologies*. Shawn Wilson, Fernwood Publishing, 2008.
 - *Decolonizing Methodologies*. Linda Tuhiwai Smith, Bloomsbury Publishing, 1999.
+- [Native Skywatchers](https://www.nativeskywatchers.com/)
+- [Astrodigenous](https://www.astrodigenous.ca/)
+- [Center for World Indigenous Studies](https://cwis.org)
+    - [Center for Traditional Medicine](https://cwis.org/center-for-traditional-medicine)
+    - [Fourth World Journal](https://cwis.org/fourth-world-journal/)
 
 ## Taxonomy and Classification
 
