@@ -639,7 +639,8 @@ Want an alphabetized version? Click [here!](https://clas-205.github.io/sp25-site
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
-| spondyl       | Greek                 | vertebrae, spine          | spondylitis       |
+| spondyl       | Greek                 | vertebrae (typically singular) | spondylitis  |
+| rachi(o)      | Greek                 | spine (as in entire backbone) | rachitis      |
 | scler(o)      | Greek                 | hard, to harden           | sclerosis         |
 | xer           | Greek                 | dry                       | Xerox             |
 | spas(m)       | Greek                 | to jerk, to move violently | spasm            |
